@@ -17,10 +17,10 @@ function Footer() {
                         <a href="#"><i class="fas fa-map-marker-alt"></i></a>
                     </div>
                     <div>
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.facebook.com/profile.php?id=100011507709168"><i class="fab fa-facebook-f"></i></a>
                     </div>
                     <div>
-                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                        <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-th%E1%BB%8B-thu-7b49b8213/"><i class="fab fa-linkedin-in"></i></a>
                     </div>
                 </div>
             </div>

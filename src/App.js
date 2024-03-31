@@ -1,12 +1,13 @@
 import React from 'react';
 import './App.css';
+import Navbar from './components/Navbar';
+import About from './components/About';
+import Skills from './components/Skills';
+import Works from './components/Works';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
 
-import Navbar from './Navbar';
-import About from './About';
-import Works from './Works';
-import Contact from './Contact';
-import Skills from './Skills';
-import Footer from './Footer';
+
 
 
 function App() {

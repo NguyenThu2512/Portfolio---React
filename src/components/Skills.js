@@ -29,45 +29,13 @@ function Skills() {
             <img src="images/php.png" alt="CSS" />
             <span className="php-item">PHP</span>
           </div>
+          <div className="skills-item">
+            <img src="images/nextjs.png" alt="CSS" />
+            <span className="php-item">NextJS</span>
+          </div>
           
         </div>
-        <div className="skills-bar">
-          <div className="skills-bar-container">
-            <div className="skills-bar-item">
-              <div class="container">
-                <div class="skills html">90%</div>
-              </div>
-              <div>HTML</div>
-            </div>
-
-            <div className="skills-bar-item">
-              <div class="container">
-                <div class="skills css">80%</div>
-              </div>
-              <div>CSS</div>
-            </div>
-
-            <div className="skills-bar-item">
-              <div class="container">
-                <div class="skills js">65%</div>
-              </div>
-              <div>JavaScript</div>
-            </div>
-            <div className="skills-bar-item">
-              <div class="container">
-                <div class="skills react">60%</div>
-              </div>
-              <div>React</div>
-            </div>
-
-            <div className="skills-bar-item">
-              <div class="container">
-                <div class="skills php">50%</div>
-              </div>
-              <div>PHP</div>
-            </div>
-          </div>
-        </div>
+        
 
       </div>
     </div>
